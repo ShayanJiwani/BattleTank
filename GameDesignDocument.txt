@@ -1,0 +1,15 @@
+Concept:
+Tanks fight head-to-head on an enclosed map
+First Tank to destroy the other Tank wins
+
+Rules:
+Both players begin with the same health
+The game finishes when one player's health reaches 0 (death)
+The speed of the tank and the motion of the turret is limited
+
+Requirements:
+A tank model with a body, turret, barrel, and tracks for movement
+An enclosed landscape with textures
+Terrain for gameplay and cover
+Controller setup (WASD for tank motion and mouse for camera control,
+spacebar for shooting? Any special projectiles?)
